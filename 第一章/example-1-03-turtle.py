@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+# encoding=utf8
+import turtle
+turtle.forward(100)
+turtle.right(144)
+turtle.forward(100)
+turtle.right(144)
+turtle.forward(100)
+turtle.right(144)
+turtle.forward(100)
+turtle.right(144)
+turtle.forward(100)
